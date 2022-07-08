@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marius_isoardi
 - 👀 I’m interested in artificial intelligence and blockchain.
-- 🌱 I’m currently learning HTML/CSS, PHP, JS, SEO.
+- 🌱 I’m currently learning HTML/CSS, SEO, JS,React JS, Nodejs, MongoDB, JWT.
 - 💞️ I would like to learn how to create blockchains and artificial intelligence systems.
 - 📫 How to reach me : misoardi13100@outlook.fr
 
